@@ -34,18 +34,7 @@ public class App
         confirmedPlanet = true;
       }
     } while (confirmedPlanet == false);
-
-
-
-
-
-
-
-
-
-
-
-
+    
 
 
     // System.Console.WriteLine("Loading Galaxy's Edge Planets");
