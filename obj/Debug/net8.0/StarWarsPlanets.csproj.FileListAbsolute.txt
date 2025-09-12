@@ -1,0 +1,15 @@
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\bin\Debug\net8.0\StarWarsPlanets.exe
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\bin\Debug\net8.0\StarWarsPlanets.deps.json
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\bin\Debug\net8.0\StarWarsPlanets.runtimeconfig.json
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\bin\Debug\net8.0\StarWarsPlanets.dll
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\bin\Debug\net8.0\StarWarsPlanets.pdb
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\obj\Debug\net8.0\StarWarsPlanets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\obj\Debug\net8.0\StarWarsPlanets.AssemblyInfoInputs.cache
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\obj\Debug\net8.0\StarWarsPlanets.AssemblyInfo.cs
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\obj\Debug\net8.0\StarWarsPlanets.csproj.CoreCompileInputs.cache
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\obj\Debug\net8.0\StarWarsPlanets.sourcelink.json
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\obj\Debug\net8.0\StarWarsPlanets.dll
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\obj\Debug\net8.0\refint\StarWarsPlanets.dll
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\obj\Debug\net8.0\StarWarsPlanets.pdb
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\obj\Debug\net8.0\StarWarsPlanets.genruntimeconfig.cache
+C:\Users\aerma\Downloads\UT-Bootcamp\Udemy\C#\StarWarsPlanets\obj\Debug\net8.0\ref\StarWarsPlanets.dll

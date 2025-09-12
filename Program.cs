@@ -1,10 +1,6 @@
-﻿using System.Text.Json;
+﻿IClient client = new Client();
 
-IClient client = new Client();
-var baseAddress = "https://swapi.info/api/";
-var requestUri = "planets";
-
-var json = await client.Read(baseAddress, requestUri);
-var root = JsonSerializer.Deserialize<List<Root>>(json);
+var app = new App();
+await app.Run(new Client());
 
 Console.ReadKey();

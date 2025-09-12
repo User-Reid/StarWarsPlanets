@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarWarsPlanets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aab7dc37b425b2cf0ef9aaac36adda3c1cbee41c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d43fd1673eabe76e2c54189416c83171857c915")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarWarsPlanets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarWarsPlanets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
